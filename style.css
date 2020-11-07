@@ -41,3 +41,10 @@ body{
 .input{
 border:7px chartreuse outset;
 }
+
+
+canvas{
+    box-shadow:5px 5px 18px black;
+    border-radius:10px;
+    border:10px chartreuse outset;
+}
